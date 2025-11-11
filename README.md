@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Oğulcan</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **Front-End Technologies**
 
-- 👨‍💻 All of my projects are available at [metinogulcank.github.io/metinogulcank](metinogulcank.github.io/metinogulcank)
+- 👨‍💻 All of my projects are available at [metinogulcank.com.tr](metinogulcank.github.io/metinogulcank)
 
 - 💬 Ask me about **React, Angular**
 
